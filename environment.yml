@@ -14,3 +14,8 @@ dependencies:
     - scikit-learn==1.2.2
     - scipy==1.9.1
     - lxml-html-clean
+    - matplotlib
+    - seaborn
+    - itables
+    - statsmodels
+    - tqdm
